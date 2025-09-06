@@ -94,10 +94,10 @@ export const Navbar = () => {
               Home
             </NavLink> */}
             <NavLink to="/contact" onClick={closeMenu}>
-              Contact
+              CONTACT
             </NavLink>
             <NavLink to="/about" onClick={closeMenu}>
-              About
+              ABOUT
             </NavLink>
             <NavLink to="/faq" onClick={closeMenu}>
               FAQ

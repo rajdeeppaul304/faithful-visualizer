@@ -43,7 +43,7 @@ const VisuallyCraftedStories = () => {
           <a className="aspect-[4/5] overflow-hidden w-full h-[500px]"
           href="/photography/3">
             <img
-              src={destinationWedding}
+              src="/couples/jyoti_lovejit/A7400029.jpg"
               alt="Jyoti & Lovejit"
               className="w-full h-full object-cover grayscale"
             />

@@ -1,179 +1,221 @@
 {
   "1": {
-    "title": "Heena & Rahul.",
-    "images": [
-      {
-        "id": 1,
-        "src": "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=800&q=80",
-        "alt": "Wedding ceremony moment",
-        "height": 600
-      },
-      {
-        "id": 2,
-        "src": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
-        "alt": "Bride and groom portrait",
-        "height": 800
-      },
-      {
-        "id": 3,
-        "src": "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?w=800&q=80",
-        "alt": "Wedding reception",
-        "height": 500
-      },
-      {
-        "id": 4,
-        "src": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
-        "alt": "Wedding details",
-        "height": 700
-      },
-      {
-        "id": 5,
-        "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=80",
-        "alt": "Wedding party",
-        "height": 650
-      },
-      {
-        "id": 6,
-        "src": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=800&q=80",
-        "alt": "Wedding ceremony",
-        "height": 750
-      },
-      {
-        "id": 7,
-        "src": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=800&q=80",
-        "alt": "Wedding flowers",
-        "height": 600
-      },
-      {
-        "id": 8,
-        "src": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=800&q=80",
-        "alt": "Wedding dance",
-        "height": 800
-      },
-      {
-        "id": 9,
-        "src": "https://images.unsplash.com/photo-1591604466107-ec97de577aff?w=800&q=80",
-        "alt": "Wedding venue",
-        "height": 550
-      }
-    ]
-  },
+  "title": "Riya & Rishi.",
+  "images": [
+    {
+      "id": 1,
+      "src": "/couples/riya_rishi/A7401390-min.webp",
+      "alt": "Photo 1",
+      "height": 639
+    },
+    {
+      "id": 2,
+      "src": "/couples/riya_rishi/A7401427-min.webp",
+      "alt": "Photo 2",
+      "height": 639
+    },
+    {
+      "id": 3,
+      "src": "/couples/riya_rishi/A7401510-min.webp",
+      "alt": "Photo 3",
+      "height": 748
+    },
+    {
+      "id": 4,
+      "src": "/couples/riya_rishi/A7401513-min (1).webp",
+      "alt": "Photo 4",
+      "height": 742
+    },
+    {
+      "id": 5,
+      "src": "/couples/riya_rishi/A7401554-min.webp",
+      "alt": "Photo 5",
+      "height": 622
+    },
+    {
+      "id": 6,
+      "src": "/couples/riya_rishi/A7401738-min.webp",
+      "alt": "Photo 6",
+      "height": 518
+    },
+    {
+      "id": 7,
+      "src": "/couples/riya_rishi/A7401870-min.webp",
+      "alt": "Photo 7",
+      "height": 778
+    },
+    {
+      "id": 8,
+      "src": "/couples/riya_rishi/A7401896-min.webp",
+      "alt": "Photo 8",
+      "height": 518
+    },
+    {
+      "id": 9,
+      "src": "/couples/riya_rishi/A7401918-min (1).webp",
+      "alt": "Photo 9",
+      "height": 713
+    },
+    {
+      "id": 10,
+      "src": "/couples/riya_rishi/A7401918-min.webp",
+      "alt": "Photo 10",
+      "height": 518
+    },
+    {
+      "id": 11,
+      "src": "/couples/riya_rishi/A7402352-min.webp",
+      "alt": "Photo 11",
+      "height": 744
+    },
+    {
+      "id": 12,
+      "src": "/couples/riya_rishi/Front image for banner.webp",
+      "alt": "Photo 12",
+      "height": 592
+    }
+  ]
+},
   "2": {
-    "title": "Satvir & Bhavandeep.",
-    "images": [
-      {
-        "id": 1,
-        "src": "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=800&q=80",
-        "alt": "Wedding ceremony moment",
-        "height": 600
-      },
-      {
-        "id": 2,
-        "src": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
-        "alt": "Bride and groom portrait",
-        "height": 800
-      },
-      {
-        "id": 3,
-        "src": "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?w=800&q=80",
-        "alt": "Wedding reception",
-        "height": 500
-      },
-      {
-        "id": 4,
-        "src": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
-        "alt": "Wedding details",
-        "height": 700
-      },
-      {
-        "id": 5,
-        "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=80",
-        "alt": "Wedding party",
-        "height": 650
-      },
-      {
-        "id": 6,
-        "src": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=800&q=80",
-        "alt": "Wedding ceremony",
-        "height": 750
-      },
-      {
-        "id": 7,
-        "src": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=800&q=80",
-        "alt": "Wedding flowers",
-        "height": 600
-      },
-      {
-        "id": 8,
-        "src": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=800&q=80",
-        "alt": "Wedding dance",
-        "height": 800
-      },
-      {
-        "id": 9,
-        "src": "https://images.unsplash.com/photo-1591604466107-ec97de577aff?w=800&q=80",
-        "alt": "Wedding venue",
-        "height": 550
-      }
-    ]
-  },
+  "title": "Dipali & Neil.",
+  "images": [
+    {
+      "id": 1,
+      "src": "/couples/dipali_neil/A7401891-Edit-min.webp",
+      "alt": "Photo 1",
+      "height": 785
+    },
+    {
+      "id": 2,
+      "src": "/couples/dipali_neil/A7401920-Edit-min.webp",
+      "alt": "Photo 2",
+      "height": 799
+    },
+    {
+      "id": 3,
+      "src": "/couples/dipali_neil/A7401942-min.webp",
+      "alt": "Photo 3",
+      "height": 589
+    },
+    {
+      "id": 4,
+      "src": "/couples/dipali_neil/A7401962-min.webp",
+      "alt": "Photo 4",
+      "height": 556
+    },
+    {
+      "id": 5,
+      "src": "/couples/dipali_neil/A7402073-Edit-min.webp",
+      "alt": "Photo 5",
+      "height": 580
+    },
+    {
+      "id": 6,
+      "src": "/couples/dipali_neil/A7402124-min.webp",
+      "alt": "Photo 6",
+      "height": 702
+    },
+    {
+      "id": 7,
+      "src": "/couples/dipali_neil/A7402130-Edit-min.webp",
+      "alt": "Photo 7",
+      "height": 688
+    },
+    {
+      "id": 8,
+      "src": "/couples/dipali_neil/A7402161-Edit-min.webp",
+      "alt": "Photo 8",
+      "height": 689
+    },
+    {
+      "id": 9,
+      "src": "/couples/dipali_neil/A7402621-Edit-min.webp",
+      "alt": "Photo 9",
+      "height": 654
+    },
+    {
+      "id": 10,
+      "src": "/couples/dipali_neil/Front image for banner.webp",
+      "alt": "Photo 10",
+      "height": 766
+    }
+  ]
+},
   "3": {
-    "title": "Jyoti & Lovejit.",
-    "images": [
-      {
-        "id": 1,
-        "src": "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=800&q=80",
-        "alt": "Wedding ceremony moment",
-        "height": 600
-      },
-      {
-        "id": 2,
-        "src": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
-        "alt": "Bride and groom portrait",
-        "height": 800
-      },
-      {
-        "id": 3,
-        "src": "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?w=800&q=80",
-        "alt": "Wedding reception",
-        "height": 500
-      },
-      {
-        "id": 4,
-        "src": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
-        "alt": "Wedding details",
-        "height": 700
-      },
-      {
-        "id": 5,
-        "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=80",
-        "alt": "Wedding party",
-        "height": 650
-      },
-      {
-        "id": 6,
-        "src": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=800&q=80",
-        "alt": "Wedding ceremony",
-        "height": 750
-      },
-      {
-        "id": 7,
-        "src": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=800&q=80",
-        "alt": "Wedding flowers",
-        "height": 600
-      },
-      {
-        "id": 8,
-        "src": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=800&q=80",
-        "alt": "Wedding dance",
-        "height": 800
-      },
-      {
-        "id": 9,
-        "src": "https://images.unsplash.com/photo-1591604466107-ec97de577aff?w=800&q=80",
-        "alt": "Wedding venue",
-        "height": 550
-      }
-    ]
-  }
+  "title": "Jyoti & Lovejit.",
+  "images": [
+    {
+      "id": 1,
+      "src": "/couples/jyoti_lovejit/A7400029.jpg",
+      "alt": "Photo 1",
+      "height": 641
+    },
+    {
+      "id": 2,
+      "src": "/couples/jyoti_lovejit/A7400029.webp",
+      "alt": "Photo 2",
+      "height": 626
+    },
+    {
+      "id": 3,
+      "src": "/couples/jyoti_lovejit/A7400112.webp",
+      "alt": "Photo 3",
+      "height": 602
+    },
+    {
+      "id": 4,
+      "src": "/couples/jyoti_lovejit/A7400144.webp",
+      "alt": "Photo 4",
+      "height": 560
+    },
+    {
+      "id": 5,
+      "src": "/couples/jyoti_lovejit/A7400281.webp",
+      "alt": "Photo 5",
+      "height": 567
+    },
+    {
+      "id": 6,
+      "src": "/couples/jyoti_lovejit/A7400421.webp",
+      "alt": "Photo 6",
+      "height": 608
+    },
+    {
+      "id": 7,
+      "src": "/couples/jyoti_lovejit/A7400576.webp",
+      "alt": "Photo 7",
+      "height": 588
+    },
+    {
+      "id": 8,
+      "src": "/couples/jyoti_lovejit/A7400643.webp",
+      "alt": "Photo 8",
+      "height": 787
+    },
+    {
+      "id": 9,
+      "src": "/couples/jyoti_lovejit/A7400663.webp",
+      "alt": "Photo 9",
+      "height": 721
+    },
+    {
+      "id": 10,
+      "src": "/couples/jyoti_lovejit/A7400845.webp",
+      "alt": "Photo 10",
+      "height": 610
+    },
+    {
+      "id": 11,
+      "src": "/couples/jyoti_lovejit/A7400879.webp",
+      "alt": "Photo 11",
+      "height": 581
+    },
+    {
+      "id": 12,
+      "src": "/couples/jyoti_lovejit/final post-Final-004.jpg.jpg",
+      "alt": "Photo 12",
+      "height": 710
+    }
+  ]
+}
 }

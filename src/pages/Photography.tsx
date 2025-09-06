@@ -144,13 +144,13 @@ const PhotographyPage = () => {
   };
 
   return (
-    <div className="min-h-screen" style={{ backgroundColor: '#f5f3f0' }}>
+    <div className="min-h-screen" >
       {/* Hero Section */}
       <section className="px-4 py-12">
         <div className="max-w-6xl mx-auto">
-          <div className="  rounded-lg overflow-hidden mb-8">
-            <div className="text-center py-12 sm:py-16 lg:py-20 px-6 sm:px-12" style={{ backgroundColor: '#f9f7f4' }}>
-              <h1 className="text-3xl sm:text-4xl lg:text-6xl font-serif text-gray-600 mb-8 sm:mb-12 lg:mb-16 tracking-wide font-light">
+          <div className="  rounded-lg overflow-hidden">
+            <div className="text-center py-6 sm:py-6 lg:py-6 lg:pt-20 lg:pb-0 px-6 sm:px-12">
+              <h1 className="libertinus-sans-regular text-3xl sm:text-4xl lg:text-4xl font-serif text-gray-600 mb-8 sm:mb-2 lg:mb-4 tracking-wide font-light">
                 {project.title}
               </h1>
               
@@ -175,9 +175,6 @@ const PhotographyPage = () => {
       {/* Gallery Section */}
       <section className="px-4 pb-12">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-2xl sm:text-3xl font-serif text-gray-700 text-center mb-8 sm:mb-12 font-light">
-            Gallery
-          </h2>
           
           {images.length > 0 ? (
             <MasonryGrid images={images} />
